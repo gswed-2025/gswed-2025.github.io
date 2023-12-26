@@ -1,7 +1,3 @@
----
-title: Travel Information
----
-
 ### Travel From Canada
 The venue is located in the northwest of England. We recommend flying into _Manchester Airport_ as this is the closest to the venue. It has train links into the local train station, [_Winderemere_](https://maps.app.goo.gl/mKkS1FCVVBemtHFk8).
 
