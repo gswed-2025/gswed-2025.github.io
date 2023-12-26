@@ -1,4 +1,7 @@
-Here what we do
-mon:ceremony
-tues:karaoke
-wed:fish and chip
+
+
+| Time | Monday | Tuesday | Wednesday |
+| -------- | ------- | -------- | ------- | 
+| 9 - 10 | Breakfast| Karaoke  | Karaoke  |
+| 10 - 12 | Karaoke | Ceremony | Karaoke  |
+| 12 - 2 | Karaoke  | Karaoke  | Karaoke  |
