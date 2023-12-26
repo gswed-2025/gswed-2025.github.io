@@ -4,7 +4,7 @@ The venue is located in the northwest of England. We recommend flying into _Manc
 ### Travel From Northern Ireland
 We recommend either
 * Taking a flight from _Belfast_ to _Manchester_. From there, train links are [available](https://maps.app.goo.gl/mKkS1FCVVBemtHFk8).
-* Taking the ferry from _Larne_ to [_Cairnryan_](https://maps.app.goo.gl/BmkoVPq2aLWABC4T9) or [_Liverpool_](https://maps.app.goo.gl/ZiHpZ2irepU4fpYZ6) 
+* Taking the ferry from _Larne_ to [_Cairnryan_](https://maps.app.goo.gl/BmkoVPq2aLWABC4T9) or [_Liverpool_](https://maps.app.goo.gl/ZiHpZ2irepU4fpYZ6).
 
 ### Local Travel
 [Buses](https://maps.app.goo.gl/DWqf2j4dYc8iKK5X9) run to and from the nearest sizeable town, Winderemere, to the hotel.
