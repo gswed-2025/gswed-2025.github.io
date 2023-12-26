@@ -1,6 +1,3 @@
----
----
-
 | Time | Monday | Tuesday | Wednesday |
 | -------- | ------- | -------- | ------- | 
 | 9 - 10 | Breakfast| Karaoke  | Karaoke  |
